@@ -52,6 +52,6 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 **[idlesync.in](https://idlesync.in)** &nbsp;·&nbsp; **[hello@idlesync.in](mailto:hello@idlesync.in)**
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flazy-coder-03&count_bg=%2300E5B0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=Lazy-Coder-03&color=00e5b0&style=flat-square&label=visitors)
 
 </div>
