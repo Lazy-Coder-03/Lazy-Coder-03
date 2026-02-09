@@ -40,14 +40,6 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lazy-Coder-03&show_icons=true&bg_color=08080d&title_color=00e5b0&icon_color=00e5b0&text_color=e0e0e0&border_color=1a1a2e&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-Coder-03&layout=compact&bg_color=08080d&title_color=00e5b0&text_color=e0e0e0&border_color=1a1a2e&hide_border=false&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lazy-Coder-03&theme=dark&background=08080D&ring=00E5B0&fire=00E5B0&currStreakLabel=00E5B0&sideLabels=E0E0E0&border=1A1A2E&dates=888888)
 
 </div>
