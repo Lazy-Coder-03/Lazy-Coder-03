@@ -12,6 +12,15 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 ---
 
+### What I'm up to
+
+- Building **IdleSync** — an automation consultancy brand + tools
+- Experimenting with **n8n workflow templates** for common business automations
+- Training ML models for market analysis and NLP tasks
+- Shipping full-stack apps with **Next.js + Supabase**
+
+---
+
 ### What I work with
 
 <div align="center">
@@ -44,13 +53,20 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lazy-Coder-03&theme=dark&background=08080D&ring=00E5B0&fire=00E5B0&currStreakLabel=00E5B0&sideLabels=E0E0E0&border=1A1A2E&dates=888888)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lazy-Coder-03/Lazy-Coder-03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lazy-Coder-03/Lazy-Coder-03/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lazy-Coder-03/Lazy-Coder-03/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
 
-**[idlesync.in](https://idlesync.in)** &nbsp;·&nbsp; **[hello@idlesync.in](mailto:hello@idlesync.in)**
+[![Website](https://img.shields.io/badge/idlesync.in-08080d?style=for-the-badge&logo=google-chrome&logoColor=00e5b0)](https://idlesync.in)
+[![Email](https://img.shields.io/badge/hello@idlesync.in-08080d?style=for-the-badge&logo=gmail&logoColor=00e5b0)](mailto:hello@idlesync.in)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lazy-Coder-03&color=00e5b0&style=flat-square&label=visitors)
 
