@@ -53,11 +53,7 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lazy-Coder-03&theme=dark&background=08080D&ring=00E5B0&fire=00E5B0&currStreakLabel=00E5B0&sideLabels=E0E0E0&border=1A1A2E&dates=888888)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lazy-Coder-03/Lazy-Coder-03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lazy-Coder-03/Lazy-Coder-03/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lazy-Coder-03/Lazy-Coder-03/output/github-snake-dark.svg" />
-</picture>
+![Metrics](github-metrics.svg)
 
 </div>
 
