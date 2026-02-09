@@ -23,7 +23,7 @@ jobs:
 
           template: classic
           base: header, activity, repositories
-          config_order: base.header, isocalendar, languages, habits
+          config_order: base.header, isocalendar, languages
 
           # Isometric contribution calendar
           plugin_isocalendar: yes
@@ -38,15 +38,6 @@ jobs:
           plugin_languages_colors: "0:#00e5b0, 1:#00c49a, 2:#009d7b, 3:#00785e, 4:#005542, 5:#58a6ff, 6:#9d8fff, 7:#d2a8ff"
           plugin_languages_other: yes
           plugin_languages_ignored: html, css
-
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_trim: yes
 
           # Dark theme — IdleSync brand colors
           extras_css: |
