@@ -16,9 +16,11 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,tensorflow,pytorch&theme=dark&perline=7)
+![Languages & Frameworks](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,tensorflow,pytorch&theme=dark&perline=8)
 
-![Tools](https://skillicons.dev/icons?i=docker,cloudflare,gcp,firebase,git,vscode,figma&theme=dark&perline=7)
+![Platforms & Tools](https://skillicons.dev/icons?i=supabase,cloudflare,vercel,github,vscode&theme=dark&perline=5)
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
@@ -28,11 +30,11 @@ When I'm not automating things, I'm probably training ML models or building brow
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**MarketSage**](https://github.com/Lazy-Coder-03/MarketSage) | ML-powered stock trend forecasting with sentiment analysis | Python, scikit-learn |
-| [**Lazy Watermark Remover**](https://github.com/Lazy-Coder-03/Lazy_Watermark_Remover) | AI inpainting model for watermark removal, trained on custom dataset | Python, Deep Learning |
-| [**Customer Review Classifier**](https://github.com/Lazy-Coder-03/Customer-Review-Classifier) | NLP sentiment & topic classifier for customer reviews | Python, NLP |
+| [**MarketSage**](https://github.com/Lazy-Coder-03/MarketSage) | ML-powered stock trend forecasting with sentiment analysis | Python, TensorFlow, PyTorch, Streamlit |
+| [**Agent Dashboard**](https://github.com/Lazy-Coder-03/Easy_Do_agent_Conversation_Dashboard) | AI agent conversation dashboard with real-time analytics | Next.js 16, React 19, Supabase, Tailwind |
+| [**Lazy Watermark Remover**](https://github.com/Lazy-Coder-03/Lazy_Watermark_Remover) | AI inpainting model for watermark removal, trained on custom dataset | Python, Jupyter |
+| [**Customer Review Classifier**](https://github.com/Lazy-Coder-03/Customer-Review-Classifier) | NLP sentiment & topic classifier for customer reviews | Python, scikit-learn |
 | [**Neural Network Viz**](https://github.com/Lazy-Coder-03/Neuralnetwork-Visualisation) | Interactive browser visualization of neural network forward propagation | JavaScript, Canvas |
-| [**Agent Dashboard**](https://github.com/Lazy-Coder-03/Easy_Do_agent_Conversation_Dashboard) | AI agent conversation dashboard with real-time analytics | TypeScript |
 
 ---
 
