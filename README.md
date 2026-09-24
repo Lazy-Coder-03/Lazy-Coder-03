@@ -8,7 +8,7 @@
 
 I build automation systems and AI-powered tools for businesses that want to do more with less manual effort. Currently building **[IdleSync](https://idlesync.in)** — a consultancy focused on workflow automation, AI agents, and data pipelines.
 
-When I'm not automating things, I'm probably training ML models or building browser-based tools nobody asked for.
+When I'm not automating things, I'm probably training ML models or building browser-based tools.
 
 ---
 
